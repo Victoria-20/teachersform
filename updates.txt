@@ -1,0 +1,6 @@
+note
+
+-keep every Answer option in its own cell in the database
+-indicate correct answer/option
+-include text editor on the optionstext(some answers could be formulas)
+- any other important feature you could think of
